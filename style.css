@@ -5,8 +5,5 @@ body {
 h1, h2, p, ol, li{
  color: white;
  text-align: center;
-}
-
-li{
- ist-style: inside;
+ list-style-position: inside;
 }
